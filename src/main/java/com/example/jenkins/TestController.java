@@ -15,7 +15,7 @@ public class TestController {
 
     @GetMapping("/get")
     public String gettest(){
-        return "hello再来五次";
+        return "hello再来六次";
     }
 
 }
